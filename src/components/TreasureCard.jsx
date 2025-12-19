@@ -9,7 +9,7 @@ function TreasureCard({ count, total, clueText }) {
       <div className="content-area">
         <div className="found-message">
           <img 
-            src="/assets/You have found the first tressure.png" 
+            src="/assets/found-treasure.png" 
             alt="You have found a tressure"
             className="found-text"
           />
@@ -17,7 +17,7 @@ function TreasureCard({ count, total, clueText }) {
 
         <div className="clue-board">
           <img 
-            src="/assets/you next clue_.png" 
+            src="/assets/next-clue.png" 
             alt="your next clue:"
             className="clue-header"
           />

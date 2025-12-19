@@ -6,7 +6,7 @@ function QR1() {
     <TreasureCard 
       count={5}
       total={6}
-      clueText="/assets/The most patient worker here  never asks questions,  never sleeps,  and never signs its work..png"
+      clueText="/assets/clue-patient-worker.png"
     />
   );
 }
